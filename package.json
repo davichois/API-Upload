@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "8.2.0",
-    "express": "4.17.1",
+    "express": "4.18.2",
     "fs-extra": "^9.0.1",
     "mongoose": "5.9.20",
     "multer": "1.4.2",
